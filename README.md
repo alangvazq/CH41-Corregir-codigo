@@ -1,4 +1,4 @@
-# CH41-Corregir-codigo
+# CH41-Corregir-código
 
 ## Descripción
 Este proyecto es una aplicación web que utiliza la API de GitHub para buscar usuarios y mostrar información relevante como su nombre, blog y ubicación.
